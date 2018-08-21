@@ -1,7 +1,7 @@
 # ojt_ex
 
 # 課題1
-## RFMランク
+ RFMランク
 
 # 課題2
-## dvdrentalデータ分析
+ dvdrentalデータ分析
