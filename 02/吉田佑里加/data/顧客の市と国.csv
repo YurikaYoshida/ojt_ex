@@ -1,0 +1,600 @@
+customer_id,city,country
+1,Sasebo,Japan
+2,San Bernardino,United States
+3,Athenai,Greece
+4,Myingyan,Myanmar
+5,Nantou,Taiwan
+6,Laredo,United States
+7,Kragujevac,Yugoslavia
+8,Hamilton,New Zealand
+9,Masqat,Oman
+10,Esfahan,Iran
+11,Sagamihara,Japan
+12,Yamuna Nagar,India
+13,Osmaniye,Turkey
+14,Citrus Heights,United States
+15,Bhopal,India
+16,Southend-on-Sea,United Kingdom
+17,Elista,Russian Federation
+18,Kaduna,Nigeria
+19,Kimberley,South Africa
+20,Mardan,Pakistan
+21,Tangail,Bangladesh
+22,Sal,Morocco
+23,Liepaja,Latvia
+24,Crdoba,Argentina
+25,Shikarpur,Pakistan
+26,Citt del Vaticano,Holy See (Vatican City State)
+27,Davao,Philippines
+28,Munger (Monghyr),India
+29,Shimonoseki,Japan
+30,Lungtan,Taiwan
+31,Kamarhati,India
+32,Jhansi,India
+33,Alessandria,Italy
+34,Kurashiki,Japan
+35,Toulouse,France
+36,Arak,Iran
+37,Nanyang,China
+38,Chisinau,Moldova
+39,Vila Velha,Brazil
+40,Nador,Morocco
+41,Yerevan,Armenia
+42,Pak Kret,Thailand
+43,Faaa,French Polynesia
+44,Lipetsk,Russian Federation
+45,Antofagasta,Chile
+46,Moscow,Russian Federation
+47,Juazeiro do Norte,Brazil
+48,Niznekamsk,Russian Federation
+49,Jedda,Saudi Arabia
+50,Omdurman,Sudan
+51,Fontana,United States
+52,A Corua (La Corua),Spain
+53,Nagareyama,Japan
+54,Iwakuni,Japan
+55,Balaiha,Russian Federation
+56,Papeete,French Polynesia
+57,Vaduz,Liechtenstein
+58,Kuching,Malaysia
+59,Mysore,India
+60,Jaipur,India
+61,Basel,Switzerland
+62,Saint Louis,United States
+63,Lincoln,United States
+64,Daxian,China
+65,Cayenne,French Guiana
+66,Malm,Sweden
+67,Xiangtan,China
+68,Shivapuri,India
+69,Bchar,Algeria
+70,al-Hawiya,Saudi Arabia
+71,Baybay,Philippines
+72,Taguig,Philippines
+73,Chiayi,Taiwan
+74,Rio Claro,Brazil
+75,Changhwa,Taiwan
+76,Pavlodar,Kazakstan
+77,Araatuba,Brazil
+78,Rae Bareli,India
+79,Kamakura,Japan
+80,Ife,Nigeria
+81,Mahajanga,Madagascar
+82,Simferopol,Ukraine
+83,Springs,South Africa
+84,Atlixco,Mexico
+85,Bradford,United Kingdom
+86,Songkhla,Thailand
+87,Sincelejo,Colombia
+88,Cheju,South Korea
+89,La Plata,Argentina
+90,Meixian,China
+91,Bandar Seri Begawan,Brunei
+92,Goinia,Brazil
+93,Zalantun,China
+94,Bislig,Philippines
+95,Pathankot,India
+96,Augusta-Richmond County,United States
+97,Tete,Mozambique
+98,al-Ayn,United Arab Emirates
+99,Kimchon,South Korea
+100,Jelets,Russian Federation
+101,Abha,Saudi Arabia
+102,Ashdod,Israel
+103,Ilorin,Nigeria
+104,Toulon,France
+105,Funafuti,Tuvalu
+106,Ivanovo,Russian Federation
+107,Merlo,Argentina
+108,Huixquilucan,Mexico
+109,Klerksdorp,South Africa
+110,Enshi,China
+111,Caracas,Venezuela
+112,Lancaster,United States
+113,Cuman,Venezuela
+114,Duisburg,Germany
+115,Nezahualcyotl,Mexico
+116,Pemalang,Indonesia
+117,Gandhinagar,India
+118,Grand Prairie,United States
+119,Shubra al-Khayma,Egypt
+120,Dos Quebradas,Colombia
+121,Etawah,India
+122,Lima,Peru
+123,Varanasi (Benares),India
+124,Ktahya,Turkey
+125,Boksburg,South Africa
+126,Po,Brazil
+127,Smolensk,Russian Federation
+128,Jastrzebie-Zdrj,Poland
+129,Liaocheng,China
+130,guas Lindas de Gois,Brazil
+131,Mukateve,Ukraine
+132,Botshabelo,South Africa
+133,Torren,Mexico
+134,Qalyub,Egypt
+135,Pune,India
+136,Hubli-Dharwad,India
+137,Apeldoorn,Netherlands
+138,Hohhot,China
+139,Touliu,Taiwan
+140,Clarksville,United States
+141,Fukuyama,Japan
+142,Dundee,United Kingdom
+143,Kilis,Turkey
+144,Molodetno,Belarus
+145,Soshanguve,South Africa
+146,Sterling Heights,United States
+147,Urawa,Japan
+148,Saint-Denis,Runion
+149,Brockton,United States
+150,Hidalgo,Mexico
+151,Laiwu,China
+152,Nagaon,India
+153,Jakarta,Indonesia
+154,Yuncheng,China
+155,Bern,Switzerland
+156,Ondo,Nigeria
+157,Pyongyang,North Korea
+158,Greensboro,United States
+159,Linz,Austria
+160,Ljubertsy,Russian Federation
+161,Tel Aviv-Jaffa,Israel
+162,Le Mans,France
+163,Kakamigahara,Japan
+164,Tarsus,Turkey
+165,Hami,China
+166,Lilongwe,Malawi
+167,Chandrapur,India
+168,Jinchang,China
+169,Pingxiang,China
+170,Udaipur,India
+171,Ipoh,Malaysia
+172,Batman,Turkey
+173,Graz,Austria
+174,Ocumare del Tuy,Venezuela
+175,Allappuzha (Alleppey),India
+176,Skikda,Algeria
+177,Matamoros,Mexico
+178,Santa Brbara dOeste,Brazil
+179,Kirovo-Tepetsk,Russian Federation
+180,Pereira,Colombia
+181,Memphis,United States
+182,Compton,United States
+183,Luzinia,Brazil
+184,s-Hertogenbosch,Netherlands
+185,Shahr-e Kord,Iran
+186,Haldia,India
+187,Sumy,Ukraine
+188,Bayugan,Philippines
+189,Oshawa,Canada
+190,Tabora,Tanzania
+191,Novoterkassk,Russian Federation
+192,Firozabad,India
+193,Kisumu,Kenya
+194,Hino,Japan
+195,Siegen,Germany
+196,Mannheim,Germany
+197,Changzhou,China
+198,Ikerre,Nigeria
+199,Haiphong,Vietnam
+200,Ashgabat,Turkmenistan
+201,Witten,Germany
+202,Bhusawal,India
+203,Gorontalo,Indonesia
+204,Usak,Turkey
+205,Ciudad del Este,Paraguay
+206,Blumenau,Brazil
+207,Nuuk,Greenland
+208,Balurghat,India
+209,Bhilwara,India
+210,Aden,Yemen
+211,Fuyu,China
+212,Bellevue,United States
+213,Taizz,Yemen
+214,Sunnyvale,United States
+215,Stara Zagora,Bulgaria
+216,Aparecida de Goinia,Brazil
+217,Sambhal,India
+218,Kabul,Afghanistan
+219,Vicente Lpez,Argentina
+220,Zanzibar,Tanzania
+221,Syrakusa,Italy
+222,Jaroslavl,Russian Federation
+223,Mandi Bahauddin,Pakistan
+224,Jodhpur,India
+225,Ambattur,India
+226,Asuncin,Paraguay
+227,Saarbrcken,Germany
+228,Phnom Penh,Cambodia
+229,Anpolis,Brazil
+230,Botosani,Romania
+231,Uttarpara-Kotrung,India
+232,Zaria,Nigeria
+233,Idfu,Egypt
+234,Jalib al-Shuyukh,Kuwait
+235,Buenaventura,Colombia
+236,Tanza,Philippines
+237,Naju,South Korea
+238,Shimoga,India
+239,Ciomas,Indonesia
+240,Iwaki,Japan
+241,Xiangfan,China
+242,Qinhuangdao,China
+243,San Miguel de Tucumn,Argentina
+244,Lapu-Lapu,Philippines
+245,Uijongbu,South Korea
+246,Maring,Brazil
+247,Coacalco de Berriozbal,Mexico
+248,Tallahassee,United States
+249,Tianjin,China
+250,Oyo,Nigeria
+251,Halle/Saale,Germany
+252,London,United Kingdom
+253,Miyakonojo,Japan
+254,Poos de Caldas,Brazil
+255,Hagonoy,Philippines
+256,Monywa,Myanmar
+257,Beira,Mozambique
+258,Santiago de los Caballeros,Dominican Republic
+259,Halisahar,India
+260,Datong,China
+261,Tuguegarao,Philippines
+262,Portoviejo,Ecuador
+263,Mandaluyong,Philippines
+264,Higashiosaka,Japan
+265,Olomouc,Czech Republic
+266,Salzburg,Austria
+267,Lengshuijiang,China
+268,Palghat (Palakkad),India
+269,Salinas,United States
+270,Kalisz,Poland
+271,Kumbakonam,India
+272,Yantai,China
+273,Salamanca,Mexico
+274,Karnal,India
+275,Peoria,United States
+276,Warren,United States
+277,Ogbomosho,Nigeria
+278,Inegl,Turkey
+279,Tabriz,Iran
+280,Owo,Nigeria
+281,Fuzhou,China
+282,Ponce,Puerto Rico
+283,Korla,China
+284,Benin City,Nigeria
+285,Otsu,Japan
+286,Effon-Alaiye,Nigeria
+287,Tambaram,India
+288,Valle de Santiago,Mexico
+289,Kowloon and New Kowloon,Hong Kong
+290,Valle de la Pascua,Venezuela
+291,Roanoke,United States
+292,Sharja,United Arab Emirates
+293,Donostia-San Sebastin,Spain
+294,Dayton,United States
+295,Kolpino,Russian Federation
+296,Patiala,India
+297,Ahmadnagar,India
+298,Oulu,Finland
+299,Hiroshima,Japan
+300,Parbhani,India
+301,Kaliningrad,Russian Federation
+302,Tiefa,China
+303,Sanaa,Yemen
+304,Callao,Peru
+305,Arlington,United States
+306,Sungai Petani,Malaysia
+307,Angra dos Reis,Brazil
+308,Kansas City,United States
+309,Brescia,Italy
+310,Ibirit,Brazil
+311,Kursk,Russian Federation
+312,Tabuk,Saudi Arabia
+313,Ezhou,China
+314,Sorocaba,Brazil
+315,Bat Yam,Israel
+316,Miraj,India
+317,Trshavn,Faroe Islands
+318,Bydgoszcz,Poland
+319,San Felipe del Progreso,Mexico
+320,Tafuna,American Samoa
+321,Birgunj,Nepal
+322,Baha Blanca,Argentina
+323,Cuautla,Mexico
+324,Yuzhou,China
+325,Braslia,Brazil
+326,Kingstown,Saint Vincent and the Grenadines
+327,Adana,Turkey
+328,Ciparay,Indonesia
+329,Jamalpur,Bangladesh
+330,Aurora,United States
+331,Santa F,Argentina
+332,Dhaka,Bangladesh
+333,Baku,Azerbaijan
+334,Sumqayit,Azerbaijan
+335,Sousse,Tunisia
+336,Rampur,India
+337,Onomichi,Japan
+338,Paarl,South Africa
+339,Xinxiang,China
+340,Hanoi,Vietnam
+341,Ede,Netherlands
+342,Boa Vista,Brazil
+343,Mexicali,Mexico
+344,Nukualofa,Tonga
+345,San Lorenzo,Paraguay
+346,Maikop,Russian Federation
+347,Daugavpils,Latvia
+348,Hsichuh,Taiwan
+349,Imus,Philippines
+350,Teboksary,Russian Federation
+351,Zeleznogorsk,Russian Federation
+352,Bamenda,Cameroon
+353,Pachuca de Soto,Mexico
+354,Santo Andr,Brazil
+355,Matsue,Japan
+356,Satna,India
+357,Bratislava,Slovakia
+358,Ranchi,India
+359,Almirante Brown,Argentina
+360,Arecibo,Puerto Rico
+361,Yaound,Cameroon
+362,Belm,Brazil
+363,Nyeri,Kenya
+364,Guadalajara,Mexico
+365,Okinawa,Japan
+366,Balikesir,Turkey
+367,Adoni,India
+368,Najafabad,Iran
+369,Jurez,Mexico
+370,Gulbarga,India
+371,Cabuyao,Philippines
+372,Probolinggo,Indonesia
+373,Tanauan,Philippines
+374,Vitria de Santo Anto,Brazil
+375,Mwene-Ditu,Congo, The Democratic Republic of the
+376,Kurgan,Russian Federation
+377,Kermanshah,Iran
+378,Shenzhen,China
+379,Bhavnagar,India
+380,Tychy,Poland
+381,South Hill,Anguilla
+382,Manchester,United States
+383,Namibe,Angola
+384,Huaian,China
+385,Tama,Japan
+386,Kamjanets-Podilskyi,Ukraine
+387,Lubumbashi,Congo, The Democratic Republic of the
+388,Cavite,Philippines
+389,Emeishan,China
+390,Nakhon Sawan,Thailand
+391,Izumisano,Japan
+392,Addis Abeba,Ethiopia
+393,Korolev,Russian Federation
+394,Gijn,Spain
+395,al-Qadarif,Sudan
+396,Iwatsuki,Japan
+397,Atinsk,Russian Federation
+398,Bag,Brazil
+399,Okara,Pakistan
+400,Dallas,United States
+401,Koriyama,Japan
+402,Brest,France
+403,Valparai,India
+404,Omiya,Japan
+405,Tandil,Argentina
+406,Charlotte Amalie,Virgin Islands, U.S.
+407,Rustenburg,South Africa
+408,Jaffna,Sri Lanka
+409,Deba Habe,Nigeria
+410,Richmond Hill,Canada
+411,Cianjur,Indonesia
+412,Hoshiarpur,India
+413,Berhampore (Baharampur),India
+414,Allende,Mexico
+415,Amersfoort,Netherlands
+416,Dadu,Pakistan
+417,al-Qatif,Saudi Arabia
+418,San Felipe de Puerto Plata,Dominican Republic
+419,Katihar,India
+420,El Monte,United States
+421,Pudukkottai,India
+422,Laohekou,China
+423,Sawhaj,Egypt
+424,Shanwei,China
+425,San Juan Bautista Tuxtepec,Mexico
+426,Purnea (Purnia),India
+427,Guaruj,Brazil
+428,Syktyvkar,Russian Federation
+429,Tsuyama,Japan
+430,Dzerzinsk,Russian Federation
+431,Sucre,Bolivia
+432,Newcastle,South Africa
+433,Naala-Porto,Mozambique
+434,Ozamis,Philippines
+435,Junan,China
+436,Vancouver,Canada
+437,La Romana,Dominican Republic
+438,Kitwe,Zambia
+439,Bergamo,Italy
+440,Dhule (Dhulia),India
+441,Batna,Algeria
+442,Tongliao,China
+443,So Leopoldo,Brazil
+444,Tartu,Estonia
+445,Escobar,Argentina
+446,Uluberia,India
+447,Nabereznyje Telny,Russian Federation
+448,Erlangen,Germany
+449,Sirjan,Iran
+450,Surakarta,Indonesia
+451,El Fuerte,Mexico
+452,Abu Dhabi,United Arab Emirates
+453,Maracabo,Venezuela
+454,Uruapan,Mexico
+455,El Alto,Bolivia
+456,Ziguinchor,Senegal
+457,Rockford,United States
+458,Tegal,Indonesia
+459,Qomsheh,Iran
+460,Florencia,Colombia
+461,Gingoog,Philippines
+462,Usolje-Sibirskoje,Russian Federation
+463,Halifax,Canada
+464,Rancagua,Chile
+465,Zapopan,Mexico
+466,Dongying,China
+467,Cuauhtmoc,Mexico
+468,Bijapur,India
+469,Ourense (Orense),Spain
+470,Hodeida,Yemen
+471,Johannesburg,South Africa
+472,Nam Dinh,Vietnam
+473,Lhokseumawe,Indonesia
+474,Emmen,Netherlands
+475,ostka,Ukraine
+476,Gatineau,Canada
+477,Stockport,United Kingdom
+478,Ashqelon,Israel
+479,Akron,United States
+480,Gaziantep,Turkey
+481,Mwanza,Tanzania
+482,Coatzacoalcos,Mexico
+483,Denizli,Turkey
+484,Yinchuan,China
+485,Shaoguan,China
+486,Acua,Mexico
+487,Pjatigorsk,Russian Federation
+488,La Paz,Mexico
+489,Okayama,Japan
+490,Sogamoso,Colombia
+491,Mit Ghamr,Egypt
+492,Kanchrapara,India
+493,Sultanbeyli,Turkey
+494,Robamba,Ecuador
+495,Baiyin,China
+496,Rizhao,China
+497,York,United Kingdom
+498,Salala,Oman
+499,Brindisi,Italy
+500,Madiun,Indonesia
+501,Lublin,Poland
+502,Siliguri (Shiliguri),India
+503,Ueda,Japan
+504,Joliet,United States
+505,Talavera,Philippines
+506,Pontianak,Indonesia
+507,Eskisehir,Turkey
+508,Vijayawada,India
+509,Chapra,India
+510,Kamyin,Russian Federation
+511,Suihua,China
+512,London,United Kingdom
+513,Yangor,Nauru
+514,Zaoyang,China
+515,Coquimbo,Chile
+516,Battambang,Cambodia
+517,Chungho,Taiwan
+518,Sivas,Turkey
+519,Isesaki,Japan
+520,Nha Trang,Vietnam
+521,Yingkou,China
+522,Santa Rosa,Philippines
+523,Vinh,Vietnam
+524,Purwakarta,Indonesia
+525,Udine,Italy
+526,Cape Coral,United States
+527,Mogiljov,Belarus
+528,Benguela,Angola
+529,Bhimavaram,India
+530,Ezeiza,Argentina
+531,Kuwana,Japan
+532,Cam Ranh,Vietnam
+533,Binzhou,China
+534,Amroha,India
+535,NDjamna,Chad
+536,Tonghae,South Korea
+537,Aurora,United States
+538,Baicheng,China
+539,Valencia,Venezuela
+540,Ruse,Bulgaria
+541,Livorno,Italy
+542,Pangkal Pinang,Indonesia
+543,Beni-Mellal,Morocco
+544,So Bernardo do Campo,Brazil
+545,Konotop,Ukraine
+546,Sanya,China
+547,Kanazawa,Japan
+548,Tarlac,Philippines
+549,Santiago de Compostela,Spain
+550,Zhoushan,China
+551,Alvorada,Brazil
+552,Haining,China
+553,Novi Sad,Yugoslavia
+554,Rajkot,India
+555,Chatsworth,South Africa
+556,Southport,United Kingdom
+557,Vilnius,Lithuania
+558,Wroclaw,Poland
+559,Bilbays,Egypt
+560,Avellaneda,Argentina
+561,Garland,United States
+562,Sokoto,Nigeria
+563,Bucuresti,Romania
+564,Xintai,China
+565,Hunuco,Peru
+566,Tokat,Turkey
+567,Serpuhov,Russian Federation
+568,Barcelona,Venezuela
+569,Leshan,China
+570,Monclova,Mexico
+571,Plock,Poland
+572,Czestochowa,Poland
+573,Zhezqazghan,Kazakstan
+574,Akishima,Japan
+575,Cuernavaca,Mexico
+576,Fengshan,Taiwan
+577,Tanshui,Taiwan
+578,Carmen,Mexico
+579,Mosul,Iraq
+580,Iligan,Philippines
+581,Jos Azueta,Mexico
+582,Huejutla de Reyes,Mexico
+583,Southampton,United Kingdom
+584,Banjul,Gambia
+585,Quilmes,Argentina
+586,Tsaotun,Taiwan
+587,Celaya,Mexico
+588,Weifang,China
+589,Loja,Ecuador
+590,al-Manama,Bahrain
+591,Juiz de Fora,Brazil
+592,Szkesfehrvr,Hungary
+593,Garden Grove,United States
+594,Jining,China
+595,Jinzhou,China
+596,Patras,Greece
+597,Sullana,Peru
+598,Lausanne,Switzerland
+599,Tieli,China
